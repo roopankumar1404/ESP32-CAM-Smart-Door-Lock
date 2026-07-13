@@ -122,7 +122,7 @@ ESP32-CAM-Smart-Door-Lock
 
 ## ESP32-CAM and PIR Sensor
 
-![ESP32 CAM](Images/ESP_32%20CAM%20&PIR.jpg)
+![ESP32 CAM](Images/ESP-32%20CAM%20&PIR.jpg)
 
 ---
 
